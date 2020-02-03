@@ -1,5 +1,5 @@
 {
-  "index_patterns": ["openaddresses-*"],
+  "index_patterns": ["openaddresses*"],
   "template": "openaddresses",
   "settings": {
     "number_of_shards": 1,
